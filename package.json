@@ -1,0 +1,22 @@
+{
+  "name": "ooo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.11.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "sms-service": "^1.1.7",
+    "socket.io": "^4.5.1",
+    "textmagic-rest-client": "^1.0.11",
+    "twilio": "^3.81.0"
+  }
+}
