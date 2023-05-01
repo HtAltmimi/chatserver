@@ -15,10 +15,10 @@ var pool    =    mysql.createPool({
     connectTimeout  : 60 * 60 * 1000,
     acquireTimeout  : 60 * 60 * 1000,
     timeout         : 60 * 60 * 1000,
-    host            : '81.16.28.115',
-    user            : 'u957169187_dna17',
-    database        : 'u957169187_dna17',
-    password        : '1fBI]*q9ruF^'
+    host            : '',
+    user            : '',
+    database        : '',
+    password        : ''
   });
  
 
